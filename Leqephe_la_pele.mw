@@ -1,5 +1,340 @@
-<FONT SIZE=+3><b>Rea u amohela Wikipedieng ea [[Sesotho]]</b></FONT>
+<!--        BANNER ACROSS TOP OF PAGE        -->
+{| id="mp-topbanner" style="width:100%; background:#f6f6f6; margin-top:1.2em; border:1px solid #ddd;"
+| style="width:61%; color:#000;" |
+<!--        "WELCOME TO WIKIPEDIA" AND ARTICLE COUNT        -->
+{| style="width:280px; border:none; background:none;"
+| style="width:280px; text-align:center; white-space:nowrap; color:#000;" |
+<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;">Rea u amohela Wikipedieng ea [[Sesotho]],</div>
+<div style="top:+0.2em; font-size:95%;">Pokello-tsebo ya mahala le mong le e mong o khona lokisa. </div>
+<div id="articlecount" style="width:100%; text-align:center; font-size:85%;">Hona joale ho na '''[[Special:Statistics|{{NUMBEROFARTICLES}}''']] lihlooho ngotsoe ka [[Sesotho]].
+<inputbox>
+type=create
+width=45
+break=no
+bgcolor=#f0f0f0
+buttonlabel=Bōpa sehlooho se secha
+searchbuttonlabel=Search
+</inputbox><div style="font-size:90%;">
+</div>
+|}
+<!--        PORTAL LIST ON RIGHT-HAND SIDE        -->
+| style="width:13%; font-size:95%;" |
+* [[Portal:Geologi|Geologi]]
+* [[Portal:Baeloji|Baeloji]]
+* [[Portal:Metse|Metse]]
+* [[Portal:Ekonomi|Ekonomi]]
 
+| style="width:13%; font-size:95%;" |
+* [[Portal:Hisetori|Hisetori]]
+* [[Portal:Metse|Metse]]
+* [[Portal:Sayense|Sayense]]
+* [[Portal:Thutatlhago|Thutatlhago]]
+
+| style="width:13%; font-size:95%;" |
+* [[Portal:Sosiologi|Sosiologi]]
+* [[Portal:Teknologi|Teknologi]]
+* [[Portal:Palopalo|Palopalo]]
+* '''[[Portal:Contents/Portals|Tsohle portals]]'''
+|}
+<!--        TODAY'S FEATURED ARTICLE; DID YOU KNOW        -->
+{| id="mp-upper" style="width: 100%; margin:6px 0 0 0; background:none; border-spacing: 0px;"
+| class="MainPageBG" style="width:55%; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;" |
+{| id="mp-left" style="vertical-align:top; background:#f5fffa;"
+! style="padding:2px;" | <h2 id="mp-tfa-h2" style="margin:3px; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">{{#ifexpr:{{formatnum:{{PAGESIZE:Wikipedia:Today's featured article/{{#time:F j, Y}}}}|R}}>150|Today's featured article|Kajeno ea hlahisa sehlooho se reng}}</h2>
+|-
+| style="color:#000;" | <div id="mp-tfa" style="padding:2px 5px">{{Today's featured article}}</div>
+|-
+! style="padding:2px" | <h2 id="mp-dyk-h2" style="margin:3px; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">Na u ne u tseba...</h2>
+|-
+| style="color:#000;padding:2px 5px 5px" | <div id="mp-dyk">{{Did you know}}</div>
+|-
+! style="padding:2px" | <h2 id="mp-otd-h2" style="margin:3px; background:#cedff2; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#000; padding:0.2em 0.4em;">Lintlha...</h2>
+|-
+| style="color:#000;padding:2px 5px 5px" | <div id="mp-otd">{{Did you know2}}</div>
+|}
+| style="border:1px solid transparent;" |
+<!--        TOPICS        -->
+| class="MainPageBG" style="width:45%; border:1px solid #cedff2; background:#f5faff; vertical-align:top;"|
+{| id="mp-right" style="width:100%; vertical-align:top; background:#f5faff;"
+! style="padding:2px" | <h2 id="mp-itn-h2" style="margin:3px; background:#cedff2; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#000; padding:0.2em 0.4em;">Lihlooho tse</h2>
+|-
+| style="color:#000;padding:2px 5px" | <div id="mp-itn">{{Topics}}</div>
+|}
+|}
+<!--        TODAY'S FEATURED PICTURE        -->
+{| style="margin:4px 0 0 0; width:100%; background:none; border-spacing: 0px;"
+| class="MainPageBG" style="width:100%; border:1px solid #ddcef2; background:#faf5ff; vertical-align:top; color:#000;"|
+{| id="mp-bottom" style="vertical-align:top; background:#faf5ff; color:#000; width:100%"
+! style="padding:2px" | <h2  id="mp-tfp-h2" style="margin:3px; background:#ddcef2; font-size:120%; font-weight:bold; border:1px solid #afa3bf; text-align:left; color:#000; padding:0.2em 0.4em">{{#ifexist:Template:POTD protected/{{#time:Y-m-d}}|Today's featured picture|Kajeno ea hlahisa setšoantšo}}</h2>
+|-
+| style="color:#000;padding: 2px" | <div id="mp-tfp">{{Today's featured picture}}</div>
+|}
+|}
+<!--        SECTIONS AT BOTTOM OF PAGE        -->
+<div id="mp-other" style="padding-top:4px; padding-bottom:2px;"></div>
+<!--        INTERWIKI STRAPLINE        -->
+__NOTOC____NOEDITSECTION__
+<center>'''[[:meta:Help:Editing|Thusa ho fetola]]'''
+
+Feel free to try your formatting and editing skills at the [[Wikipedia:Sandbox|Sandbox]].
+== Wikipedia ka lipuo tse ling==
+; tse ling tse Borwa ka lipuo
+[[:af:|Afrikaans]]&nbsp;·
+[[:ak:|Akan]]&nbsp;·
+[[:am:|አማርኛ]]&nbsp;·
+[[:bm:|Bamanankan]]&nbsp;·
+[[:ny:|Chi-Chewa]]&nbsp;·
+[[:sn:|chiShona]]&nbsp;·
+[[:tum:|chiTumbuka]]&nbsp;·
+[[:ee:|Ɛʋɛ]]&nbsp;·
+[[:ff:|Fulfude]]&nbsp;·
+[[:ki:|Gĩkũyũ]]&nbsp;·
+[[:ha:|هَوُسَ]]&nbsp;·
+[[:ig:|Ìgbo]]&nbsp;·
+[[:xh:|isiXhosa]]&nbsp;·
+[[:rw:|Kinyarwanda]]&nbsp;·
+[[:rn:|Kirundi]]&nbsp;·
+[[:sw:|Kiswahili]]&nbsp;·
+[[:kg:|Kongo]]&nbsp;·
+[[:ln:|Lingala]]&nbsp;·
+[[:lg:|Luganda]]&nbsp;·
+[[:mg:|Malagasy]]&nbsp;·
+[[:arz:|مصرى]]&nbsp;·
+[[:om:|Oromoo]]&nbsp;·
+[[:sg:|Sängö]]&nbsp;·
+[[:st:|seSotho]]&nbsp;·
+[[:tn:|Setswana]]&nbsp;·
+[[:ss:|SiSwati]]&nbsp;·
+[[:so:|Soomaaliga]]&nbsp;·
+[[:kab:|Taqbaylit]]&nbsp;·
+[[:ti:|ትግርኛ]]&nbsp;·
+[[:ve:|Tshivenda]]&nbsp;·
+[[:tw:|Twi]]&nbsp;·
+[[:wo:|Wolof]]&nbsp;·
+[[:ts:|Xitsonga]]&nbsp;·
+[[:yo:|Yorùbá]]&nbsp;·
+
+; Wikipedia liphetolelo le ba le 1000 go lihlooho
+[[:an:|Aragonés (Aragonese)]]&nbsp;·
+[[:ast:|Asturianu (Asturian)]]&nbsp;·
+[[:bg:|&#1041;&#1098;&#1083;&#1075;&#1072;&#1088;&#1089;&#1082;&#1080; (Bulgarian)]]&nbsp;·
+[[:be:|&#1041;&#1077;&#1083;&#1072;&#1088;&#1091;&#1089;&#1082;&#1072;&#1103; (Belarusian)]]&nbsp;·
+[[:br:|Brezhoneg (Breton)]]&nbsp;·
+[[:co:|Corsu (Corsican)]]&nbsp;·
+[[:cs:|Čeština (Czech)]]&nbsp;·
+[[:cy:|Cymraeg (Welsh)]]&nbsp;·
+[[:el:|&#917;&#955;&#955;&#951;&#957;&#953;&#954;&#940; (Greek)]]&nbsp;·
+[[:eu:|Euskara (Basque)]]&nbsp;·
+[[:fy:|Frysk (Western Frisian)]]&nbsp;·
+[[:gl:|Galego (Galician)]]&nbsp;·
+[[:la:|Latina (Latin)]]&nbsp;·
+
+; Wikipedia liphetolelo le ba le 100 go lihlooho
+[[:zh-min-nan:|Bân-lâm-gú (Southern Min)]]&nbsp;·
+[[:jv:|Basa Jawa (Javanese)]]&nbsp;·
+[[:su:|Basa Sunda (Sundanese)]]&nbsp;·
+[[:bs:|Bosanski (Bosnian)]]&nbsp;·
+[[:ga:|Gaeilge (Irish)]]&nbsp;·
+[[:hi:|&#2361;&#2367;&#2344;&#2381;&#2342;&#2368; (Hindi)]]&nbsp;·
+[[:os:|Иронау (Ossetic)]]&nbsp;·
+[[:csb:|Kasz&#235;bsczi (Kashubian)]]&nbsp;·
+[[:kw:|Kernewek (Cornish)]]&nbsp;·
+[[:sw:|Kiswahili (Swahili)]]&nbsp;·
+[[:ku:|Kurd&#238; (Kurdish)]]&nbsp;·
+[[:lb:|L&#235;tzebuergesch (Luxembourgish)]]&nbsp;·
+[[:lv:|Latvie&#353;u (Latvian)]]&nbsp;·
+[[:mi:|M&#x0101;ori]]&nbsp;·
+[[:oc:|Occitan]]&nbsp;·
+[[:nds:|Plattd&#252;&#252;tsch (Low Saxon)]]&nbsp;·
+[[:sa:|&#2360;&#2306;&#2360;&#2381;&#2325;&#2371;&#2340; (Sanskrit)]]&nbsp;·
+[[:ta:|&#2980;&#2990;&#3007;&#2996;&#3021; (Tamil)]]&nbsp;·
+[[:tt:|Tatar&#231;a (Tatar)]]&nbsp;·
+[[:ur:|&#1575;&#1585;&#1583;&#1608; (Urdu)]]&nbsp;·
+[[:vi:|Ti&#7871;ng Vi&#7879;t (Vietnamese)]]&nbsp;·
+
+<div align="center">
+'''[[m:Complete list of language Wikipedias available|Lenane le feletseng la Wikipedia likhatiso]]'''&nbsp;· 
+'''[[m:Language_committee/Handbook_(requesters)#Making_a_new_request|Qala Wikipedia bakeng sa puo e ncha]]'''
+</div>
+</div>
+
+<br>
+<div class="usermessage"><center>
+[[meta:List of articles all languages should have|List of articles all languages should have]]<br>
+[[Wikipedia:Vital articles|Vital articles (1000)]]<br>
+[[Wikipedia:Vital 100|Vital 100]]
+<center>
+<div style="width:90%;margin-top:.7em;border:1px solid gold;background:#cef2e0;padding:.7em;text-align:center"> 	 
+<big>'''[[{{CURRENTDAYNAME}}]] [[{{CURRENTDAY}} {{CURRENTMONTHNAME}}|{{CURRENTDAY}}]] [[{{CURRENTMONTHNAME}}]] [[{{CURRENTYEAR}}]]'''</big>
+* '''Article #{{NUMBEROFARTICLES}} :''' {{Special:Newpages/1}}
+</div>
+</center>
+</br>
+</center></div>
+
+<!-- interwikis to large Wikipedias (more that 10,000 articles) + languages spoken in South Afrika -->
+<!-- interwikis to many Wikipedias 
+[[aa:]]
+[[af:]]
+[[als:]]
+[[ang:]]
+[[an:]]
+[[ar:]]
+[[ast:]]
+[[ay:]]
+[[az:]]
+[[ba:]]
+[[be:]]
+[[bg:]]
+[[bi:]]
+[[bn:]]
+[[bo:]]
+[[br:]]
+[[bs:]]
+[[ca:]]
+[[chr:]]
+[[chy:]] 
+[[cs:]]
+[[csb:]]
+[[co:]]
+[[cs:]]
+[[cv:]]
+[[cy:]]
+[[da:]]
+[[de:]]
+[[el:]]
+[[en:]]
+[[eo:]]
+[[es:]]
+[[et:]]
+[[eu:]]
+[[fa:]]
+[[fi:]]
+[[fiu-vro:]]
+[[fj:]]
+[[fo:]]
+[[fr:]]
+[[frp:]]
+[[fy:]]
+[[ga:]]
+[[gd:]]
+[[gl:]]
+[[gn:]]
+[[gu:]]
+[[gv:]]
+[[haw:]]
+[[he:]]
+[[hi:]]
+[[hr:]]
+[[ht:]]
+[[hu:]]
+[[hy:]]
+[[ia:]]
+[[id:]]
+[[ie:]]
+[[ik:]]
+[[io:]]
+[[is:]]
+[[it:]]
+[[ja:]]
+[[jbo:]]
+[[jv:]]
+[[ka:]]
+[[kk:]]
+[[km:]]
+[[kn:]]
+[[ko:]]
+[[ks:]]
+[[ksh:]]
+[[ku:]]
+[[kw:]]
+[[ky:]]
+[[la:]]
+[[lb:]]
+[[li:]]
+[[ln:]]
+[[lo:]]
+[[lt:]]
+[[lv:]]
+[[map-bms:]]
+[[mg:]]
+[[mi:]]
+[[mk:]]
+[[ml:]]
+[[mn:]]
+[[mo:]]
+[[mr:]]
+[[ms:]]
+[[mt:]]
+[[my:]]
+[[na:]]
+[[nah:]]
+[[nap:]]
+[[nb:]]
+[[nds:]]
+[[nds-nl:]]
+[[ne:]]
+[[nl :]]
+[[nn:]]
+[[no:]]
+[[oc:]]
+[[om:]]
+[[os:]]
+[[pa:]]
+[[pag:]]
+[[pap:]]
+[[pdc:]]
+[[pl:]]
+[[ps:]]
+[[pt:]]
+[[qu:]]
+[[rmy:]]
+[[ro:]]
+[[roa-rup:]]
+[[ru:]]
+[[ru-sib:]]
+[[rw:]]
+[[sa:]]
+[[sc:]]
+[[scn:]]
+[[sco:]]
+[[sh:]]
+[[si:]]
+[[simple:]]
+[[sk:]]
+[[sl:]]
+[[sq:]]
+[[sr:]]
+[[st:]]
+[[su:]]
+[[sv:]]
+[[sw:]]
+[[ta:]]
+[[te:]]
+[[tet:]]
+[[tg:]]
+[[th:]]
+[[tk:]]
+[[tl:]]
+[[tpi:]]
+[[tr:]]
+[[tt:]]
+[[ug:]]
+[[uk:]]
+[[ur:]]
+[[uz:]]
+[[vec:]]
+[[vi:]]
+[[vls:]]
+[[vo:]]
+[[wa:]]
+[[yi:]]
+[[yo:]]
+[[za:]]
+[[zh:]]
+[[zh-min-nan:]]
+
+ -->
 <table cellpadding="0" cellspacing="0" border="0">
 <tr valign="top"><th style="background-color: #e2e2ff; border: 2px solid #e2e2ff; border-bottom: none; padding-top: 0.3em; padding-bottom: 0.3em; font-size: medium;" align="center" width="53%">
 '''Saeklopedia'''
@@ -21,28 +356,8 @@
 
 <b>Tsebo ya setho</b><br> [[Bonono]] — [[Dijo]] — [[Film]] — [[Fotografi]] — [[Media]] — [[Mmino]] — [[Bodumedi]] — [[Dipapadi]] — [[Puo le Tsebo ya dingwalo]]
 
-Present number of [[Special:Statistics|articles]] : [[special:allpages|'''{{NUMBEROFARTICLES}}''']]
-<br>
-<div class="usermessage"><center>
-[[meta:List of articles all languages should have|List of articles all languages should have]]<br>
-[[Wikipedia:Vital articles|Vital articles (1000)]]<br>
-[[Wikipedia:Vital 100|Vital 100]]
-<center>
-<div style="width:90%;margin-top:.7em;border:1px solid gold;background:#cef2e0;padding:.7em;text-align:center"> 	 
-<big>'''[[{{CURRENTDAYNAME}}]] [[{{CURRENTDAY}} {{CURRENTMONTHNAME}}|{{CURRENTDAY}}]] [[{{CURRENTMONTHNAME}}]] [[{{CURRENTYEAR}}]]'''</big>
-* '''Article #{{NUMBEROFARTICLES}} :''' {{Special:Newpages/1}}
-</div>
-</center>
-<br>
-<br>
-{| width="30%" style="border:1px solid black" align=left
-|
-<inputbox>
-type=create
-width=45
-</inputbox>
-|}
-</center></div><br>
+
+</center></div> <br>
 <br>
 <br>
 <br>
