@@ -4,8 +4,8 @@
 <!--        "WELCOME TO WIKIPEDIA" AND ARTICLE COUNT        -->
 {| style="width:280px; border:none; background:none;"
 | style="width:280px; text-align:center; white-space:nowrap; color:#000;" |
-<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;">Rea u amohela Wikipedieng ea [[Sesotho]],</div>
-<div style="top:+0.2em; font-size:95%;">Pokello-tsebo ya mahala le mong le e mong o khona lokisa. </div>
+<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;">Re a o amohela Wikipedieng ya [[Sesotho]],</div>
+<div style="top:+0.2em; font-size:95%;">Pokello-tsebo ya mahala eo e mong le e mong a kgonang ho lokisa. </div>
 <div id="articlecount" style="width:100%; text-align:center; font-size:85%;">Hona joale ho na '''[[Special:Statistics|{{NUMBEROFARTICLES}}''']] lihlooho ngotsoe ka [[Sesotho]].
 <inputbox>
 type=create
