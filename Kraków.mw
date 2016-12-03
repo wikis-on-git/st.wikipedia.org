@@ -1,0 +1,61 @@
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
+|+<big><big>'''{{PAGENAME}}'''</big></big><br />''Kraków''
+|-
+| style="background:#efefef;" align="center" colspan=2 |
+{| border="0" cellpadding="2" cellspacing="0"
+|-
+| align="center" width="140px" | [[File:POL Kraków COA.svg|100px]]
+| align="center" width="140px" | [[File:Malopolskie (EE,E NN,N).png|right|100px]]
+|}
+|-
+| align=center colspan=2 | [[File:Kolaż Krakowa.JPG|center|250px]]
+|-
+|}
+'''Kraków''' ke motsana wa [[Poland]], ka [[Uropa]].
+== Baahi ==
+<timeline>
+ImageSize = width:420 height:320
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:800000
+ScaleMajor = unit:year increment:800000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:100000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:20 align:center
+  bar:1791 from:0 till:23591
+  bar:1835 from:0 till:36000
+  bar:1900 from:0 till:85300
+  bar:1921 from:0 till:183751
+  bar:1931 from:0 till:219300
+  bar:1939 from:0 till:259000
+  bar:1945 from:0 till:298500
+  bar:1955 from:0 till:428231
+  bar:1975 from:0 till:684600
+  bar:1995 from:0 till:744987
+
+PlotData=
+  textcolor:black fontsize:S
+  bar:1791 at: 23591  text: 23591 shift:(0)
+  bar:1835 at: 36000  text: 36,0 shift:(0)
+  bar:1900 at: 85300  text: 85,4 shift:(0)
+  bar:1921 at: 183751 text: 183,8 shift:(0)
+  bar:1931 at: 219300 text: 219,3 shift:(0)
+  bar:1939 at: 259000 text: 259,0 shift:(0)
+  bar:1945 at: 298500 text: 298,5 shift:(0)
+  bar:1955 at: 428231 text: 428,2 shift:(0)
+  bar:1975 at: 684600 text: 684,6 shift:(0)
+  bar:1995 at: 744987 text: 744987 shift:(0)
+  </timeline>
+== Internet ==
+* [http://www.krakow.pl/ Kraków]
+{{Commons|Category:Kraków}}
+
+[[Category:Mzinda]]
+[[Category:Poland]]
