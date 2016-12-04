@@ -1,0 +1,79 @@
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
+|+<big><big>'''{{PAGENAME}}'''</big></big><br />''Łódź''
+|-
+| style="background:#efefef;" align="center" colspan=2 |
+{| border="0" cellpadding="2" cellspacing="0"
+|-
+| align="center" width="140px" | [[File:POL Łódź COA.svg|100px]]
+| align="center" width="140px" | [[File:Lodzkie (EE,E NN,N).png|right|100px]]
+|}
+|-
+| align=center colspan=2 | [[File:Lodz Collage (by EL-042).png|center|250px]]
+|-
+|}
+'''Łódź''' ke motsana wa [[Poland]], ka [[Uropa]]. 698 688 (2016) baahi.
+== Baahi ==
+<timeline>
+ImageSize = width:860 height:310
+PlotArea = left:55 right:30 top:25 bottom:35
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:870000
+ScaleMajor = unit:year increment:100000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:25000 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:20 align:left
+ bar:1800 from:0 till:428
+ bar:1830 from:0 till:4343
+ bar:1872 from:0 till:100000
+ bar:1900 from:0 till:314020
+ bar:1915 from:0 till:600000
+ bar:1921 from:0 till:452000
+ bar:1931 from:0 till:605500
+ bar:1939 from:0 till:672000
+ bar:1946 from:0 till:496929
+ bar:1955 from:0 till:674172
+ bar:1965 from:0 till:744086
+ bar:1975 from:0 till:798263
+ bar:1985 from:0 till:847864
+ bar:1988 color:cobar2 from:0 till:854003
+ bar:1995 from:0 till:823215
+ bar:2000 from:0 till:793217
+ bar:2005 from:0 till:767628
+ bar:2010 from:0 till:737098
+ bar:2015 from:0 till:700982
+
+PlotData=
+ textcolor:black fontsize:S
+ bar:1800 at: 428 text: 428 shift:(-8,5)
+ bar:1830 at: 4343 text: 4.343 shift:(-12,5)
+ bar:1872 at: 100000 text: 100.000 shift:(-18,5)
+ bar:1900 at: 314020 text: 314.020 shift:(-18,5)
+ bar:1915 at: 600000 text: 600.000 shift:(-18,5)
+ bar:1921 at: 452000 text: 452.000 shift:(-18,5)
+ bar:1931 at: 605500 text: 605.500 shift:(-18,5)
+ bar:1939 at: 672000 text: 672.000 shift:(-18,5)
+ bar:1946 at: 496929 text: 496.929 shift:(-18,5)
+ bar:1955 at: 674172 text: 674.172 shift:(-18,5)
+ bar:1965 at: 744086 text: 744.086 shift:(-18,5)
+ bar:1975 at: 798263 text: 798.263 shift:(-18,5)
+ bar:1985 at: 847864 text: 847.864 shift:(-18,5)
+ bar:1988 at: 854003 text: 854.003 shift:(-18,5)
+ bar:1995 at: 823215 text: 823.215 shift:(-18,5)
+ bar:2000 at: 793217 text: 793.217 shift:(-18,5)
+ bar:2005 at: 767628 text: 767.628 shift:(-18,5)
+ bar:2010 at: 737098 text: 737.098 shift:(-18,5)
+ bar:2015 at: 700982 text: 700.982 shift:(-18.5)
+</timeline>
+== Internet ==
+* [http://www.uml.lodz.pl Łódź] 
+
+{{Commons|Category:Łódź}}
+
+[[Category:Poland]]
