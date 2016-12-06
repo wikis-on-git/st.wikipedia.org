@@ -3,6 +3,52 @@
 Amerika Leboya ke kontinente.
 * Tulo 24,709,000 km²
 * Baahi 565,265,000 (2013)
+== Baahi (United States of America + Canada) ==
+<timeline>
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:400 height:200
+PlotArea = left:50 bottom:50 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:500
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:100 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+  bar:1950 text:1950
+  bar:1960 text:1960
+  bar:1970 text:1970
+  bar:1980 text:1980
+  bar:1990 text:1990
+  bar:2000 text:2000
+  bar:2010 text:2010
+
+PlotData=
+  color:barra width:20 align:left
+  bar:1950 from:0 till:171.615000
+  bar:1960 from:0 till:204.318000
+  bar:1970 from:0 till:231.284000
+  bar:1980 from:0 till:254.454000
+  bar:1990 from:0 till:281.162000
+  bar:2000 from:0 till:313.289000
+  bar:2010 from:0 till:344.529000
+
+PlotData=
+  bar:1950 at: 171.615000 fontsize:S text:172 shift:(-10,5)
+  bar:1960 at: 204.318000 fontsize:S text:204 shift:(-10,5)
+  bar:1970 at: 231.284000 fontsize:S text:231 shift:(-10,5)
+  bar:1980 at: 254.454000 fontsize:S text:255 shift:(-10,5)
+  bar:1990 at: 281.162000 fontsize:S text:281 shift:(-10,5)
+  bar:2000 at: 313.289000 fontsize:S text:313 shift:(-10,5)
+  bar:2010 at: 344.529000 fontsize:S text:345 shift:(-10,5)
+
+</timeline>
 ==Dinaga==
 * [[United States of America]]
 
