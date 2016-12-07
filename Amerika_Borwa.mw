@@ -1,0 +1,59 @@
+[[File:South America - Blue Marble orthographic.jpg|thumb|300px|South America]]
+[[File:"Political South America" CIA World Factbook.svg|300px|thumb|South America]]
+Amerika Borwa ke kontinente.
+* Tulo 17,840,000 km²
+* Baahi 410,013,492 (2015)
+== Baahi ==
+<timeline>
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:400 height:200
+PlotArea = left:50 bottom:50 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:900
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:200 start:0
+ScaleMinor = gridcolor:lightgrey increment:100 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+  bar:1950 text:1950
+  bar:1960 text:1960
+  bar:1970 text:1970
+  bar:1980 text:1980
+  bar:1990 text:1990
+  bar:2000 text:2000
+  bar:2010 text:2010
+
+PlotData=
+  color:barra width:20 align:left
+  bar:1950 from:0 till:112.460000
+  bar:1960 from:0 till:147.766000
+  bar:1970 from:0 till:191.562000
+  bar:1980 from:0 till:241.018000
+  bar:1990 from:0 till:295.835000
+  bar:2000 from:0 till:348.246000
+  bar:2010 from:0 till:394.021000
+
+PlotData=
+  bar:1950 at: 112.460000 fontsize:S text:112 shift:(-10,5)
+  bar:1960 at: 147.766000 fontsize:S text:147 shift:(-10,5)
+  bar:1970 at: 191.562000 fontsize:S text:191 shift:(-10,5)
+  bar:1980 at: 241.018000 fontsize:S text:241 shift:(-10,5)
+  bar:1990 at: 295.835000 fontsize:S text:295 shift:(-10,5)
+  bar:2000 at: 348.246000 fontsize:S text:348 shift:(-10,5)
+  bar:2010 at: 394.021000 fontsize:S text:394 shift:(-10,5)
+
+</timeline>
+==Dinaga==
+* [[Chile]]
+
+{{Kontinente}}
+
+[[Category:Amerika Borwa|*]]
+[[Category:Dikontinente]]
