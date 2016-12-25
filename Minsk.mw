@@ -1,0 +1,89 @@
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
+|+<big><big>'''{{PAGENAME}}'''</big></big><br />''Мінск''
+|-
+| style="background:#efefef;" align="center" colspan=2 |
+{| border="0" cellpadding="2" cellspacing="0"
+|-
+| align="center" width="140px" | [[File:Coat_of_arms_of_Minsk.svg|100px]]
+| align="center" width="140px" | [[File:Belarus CIA map PL.png|right|100px]]
+|}
+|-
+| align=center colspan=2 | [[File:Minsk Montage (2015).png|center|250px]]
+|-
+|}
+
+'''Minsk''' ke motsemoholo wa [[Belarus]], ka [[Uropa]]. 1 939 800 (2015) baahi.
+== Baahi ==
+{|
+|- valign="top"
+|
+{|class="wikitable"
+!Minsk - baahi
+<timeline>
+ImageSize  = width:600 height:400
+PlotArea   = left:50 right:20 top:25 bottom:30
+TimeAxis   = orientation:vertical
+AlignBars  = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period     = from:0 till:1850
+ScaleMajor = unit:year increment:100 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:20 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:19 align:left
+  bar:1450 from:0 till:5
+  bar:1654 from:0 till:10
+  bar:1667 from:0 till:2
+  bar:1790 from:0 till:7
+  bar:1811 from:0 till:11
+  bar:1813 from:0 till:3
+  bar:1860 from:0 till:27
+  bar:1897 from:0 till:91
+  bar:1917 from:0 till:134
+  bar:1941 from:0 till:300
+  bar:1944 from:0 till:50
+  bar:1959 from:0 till:509
+  bar:1970 from:0 till:907
+  bar:1972 from:0 till:1000
+  bar:1979 from:0 till:1276
+  bar:1986 from:0 till:1500
+  bar:1989 from:0 till:1607
+  bar:1999 from:0 till:1680
+  bar:2007 from:0 till:1814
+  bar:2009 from:0 till:1829
+PlotData=
+  textcolor:black fontsize:S
+  bar:1450 at: 5 text: 5,0 shift:(-8,5)
+  bar:1654 at: 10 text: 10,0 shift:(-8,5)
+  bar:1667 at: 2 text: 2,0 shift:(-11,5)
+  bar:1790 at: 7 text: 7,0 shift:(-11,5)
+  bar:1811 at: 11 text: 11,0 shift:(-11,5)
+  bar:1813 at: 3 text: 3,5 shift:(-11,5)
+  bar:1860 at: 27 text: 27,0 shift:(-11,5)
+  bar:1897 at: 91 text: 91,5 shift:(-14,5)
+  bar:1917 at: 134 text: 134,5 shift:(-14,5)
+  bar:1941 at: 300 text: 300,0 shift:(-11,5)
+  bar:1944 at: 50 text: 50,0 shift:(-14,5)
+  bar:1959 at: 509 text: 509,5 shift:(-14,5)
+  bar:1970 at: 907 text: 907,1 shift:(-14,5)
+  bar:1972 at: 1000 text: 1000,0 shift:(-14,5)
+  bar:1979 at: 1276 text: 1276,0 shift:(-14,5)
+  bar:1986 at: 1500 text: 1500,0 shift:(-14,5)
+  bar:1989 at: 1607 text: 1607,0 shift:(-14,5)
+  bar:1999 at: 1680 text: 1680,0 shift:(-14,5)
+  bar:2007 at: 1814 text: 1814,0 shift:(-14,5)
+  bar:2009 at: 1829 text: 1828,9 shift:(-14,5)
+</timeline>
+|}
+|
+
+
+== Internet ==
+* [http://www.minsk.gov.by Minsk]
+{{Commons|Category:Minsk}}
+
+[[Category:Belarus]]
