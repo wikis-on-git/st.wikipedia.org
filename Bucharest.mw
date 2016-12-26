@@ -1,0 +1,52 @@
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
+|+<big><big>'''{{PAGENAME}}'''</big></big><br />''București''
+|-
+| style="background:#efefef;" align="center" colspan=2 |
+{| border="0" cellpadding="2" cellspacing="0"
+|-
+| align="center" width="140px" | [[File:Bucharest-Coat-of-Arms.png|100px]]
+| align="center" width="140px" | [[File:Romania general map-en.png|right|100px]]
+|}
+|-
+| align=center colspan=2 | [[File:Bucharest_-_Spitalul_Clinic_Coltea_-_pano_01-equalized.jpg|center|250px]]
+|-
+|}
+
+'''Bucharest''' (ro. - ''București'') ke motsemoholo wa [[Romania]], ka [[Uropa]]. 1 883 425 (2011) baahi.
+== Baahi ==
+<timeline>
+ImageSize = width:800 height:270
+PlotArea = left:50 right:40 top:20 bottom:40
+TimeAxis = orientation:vertical
+AlignBars = justify
+Colors =
+  id:gray1 value:gray(0.9)
+DateFormat = yyyy
+Period = from:0 till:2100000
+ScaleMajor = unit:year increment:600000 start:0 gridcolor:gray1
+TextData =
+  pos:(250,20) textcolor:black fontsize:S
+  text: Bucharest - baahi 1930-2009
+PlotData =
+  bar:1930 color:gray1 width:1
+   from:0 till:633355  width:15  text:633355 textcolor:red  fontsize:8px
+  bar:1948 color:gray1 width:1
+   from:0 till:1025180  width:15  text:1025180 textcolor:red  fontsize:8px
+  bar:1956 color:gray1 width:1
+   from:0 till:1177661  width:15  text:1177661 textcolor:red  fontsize:8px
+  bar:1966 color:gray1 width:1
+   from:0 till:1366684  width:15  text:1366684 textcolor:red  fontsize:8px
+  bar:1977 color:gray1 width:1
+   from:0 till:1807239  width:15  text:1807239 textcolor:red  fontsize:8px
+  bar:1992 color:gray1 width:1
+   from:0 till:2067545  width:15  text:2067545 textcolor:red  fontsize:8px
+  bar:2002 color:gray1 width:1
+   from:0 till:1926334  width:15  text:1926334 textcolor:red  fontsize:8px
+  bar:2009 color:gray1 width:1
+   from:0 till:1944367  width:15  text:1944367 textcolor:red  fontsize:8px
+</timeline>
+
+== Internet ==
+* [http://www.pmb.ro/  Bucharest]
+{{Commons|Category:Bucharest}}
+[[Category:Romania]]
