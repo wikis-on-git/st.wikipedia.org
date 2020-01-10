@@ -1,0 +1,44 @@
+Lipalo - mohopolo o sa tsejoeng, e 'ngoe ea likhopolo tsa lipalo tse sebelisoang haholo. Pele, lipalo li ne li sebelisoa ho bapisa boholo ba sete ea dinomoro (linomoro tsa tlhaho), ebe palo e tsoelang pele (boholo le boholo), ebe lipalo li ne li nkuoa e le mefuta e ikhethileng, ho sa tsotelehe mefuta e ka khonehang. o teng ka mmele.
+
+Ho lipalo, "lebitso" ntle le tšusumetso ha le phoso hobane litsebi ha li hlalose "linomoro" empa "linomoro tsa tlhaho", "lipalo" joalo-joalo Mefuta ea linomoro e khethiloe ke li-axioms kapa e thehiloe ho tla le mehopolo ea mantlha ea mantlha e kang mofuta oa sete kapa palo ea linomoro. tse bonolo ho feta kamoo li neng li entsoe ka teng.
+
+<br />
+
+=== dikopo ===
+Mefuta e bonolo ka ho fetisisa ea linomoro, joalo ka linomoro tsa tlhaho kapa tsa 'nete, e sebelisoa hangata ho bonts'a palo ea lintho (mohlala, liapole tse hlano) kapa motlatsi oa unit ea litekanyo (mohlala, limithara tse peli le halofo). Menyako ea linomoro tsa tlhaho e boetse e sebelisoa e le li-identifier, mohlala, mohala, tsela, PESEL, linomoro tsa ISBN.
+
+Ho lipalo, mohopolo oa lipalo o atolositsoe ho tloha linthong tsa tlhaho, tse hlakileng le tse ithutetsoeng sekolong sa mathomo ho isa ho li-discriers tse kang tse rarahaneng, p-adic, quaternary le sedenions. Linomoro tse rarahaneng li ipakile li le molemo libakeng tse ngata ho tloha lits'oants'o tsa khomphutha [1], ho sebelisa elektroniki [2], theory fluid, ho palo ea fisiks [3] le khopolo-taba ea kamano. Li-quaternion li sebelisitsoe litšoantšong tse likarolo li tharo bakeng sa lipalo tse bonolo tsa potoloho sepakapakeng (bona li-homogenible coordinates). Linomoro tsa P-adic li fumane ts'ebeliso ho cryptography.
+
+Tlhaloso e nepahetseng
+
+Litlhaloso tse latelang ha se litlhaloso tse thata. Lipalo, leha ho le joalo, li hlalositsoe ka thata ho lipalo, mme litlhaloso tsena li hlahisoa sengoloa se arohaneng. Ka tlase ke litlhaloso tsa lits'ebetso tse fokolang tse bonolo feela tsa lipalo.
+
+Linomoro tsa tlhaho
+
+Sengoloa se ka sehloohong: linomoro tsa tlhaho.
+
+Linomoro tse sebelisoang haholo ke linomoro tsa tlhaho. Ho na le likolo tse peli har'a litsebi tsa lipalo:
+
+Ba bang ba lumela hore zero e lokela ho kenyelletsoa ka lipalo tsa tlhaho (kahoo lipalo tsa tlhaho ke {\ bonstyle 0,1,2,3,4, \ dots} {\ showstyle 0,1,2,3,4, \ dots}) . Mokhoa ona o amahanngoa le ts'ebeliso ea "tlhaho" ea tlhaho ea lipalo tsa tlhaho - ho bala likarolo tsa li-setshelo tse hlakileng. Bophelong ba letsatsi le letsatsi, linomoro tsa tlhaho li sebelisoa haholo bakeng sa morero ona ho khetholla palo ea lintho tse sehlopha. Zero e ntan'o ba e tsamaellanang le karete ea senotlolo se se nang letho.
+
+Ba bang ba hlokomela hore lipalo tsa tlhaho li qala ka e le 'ngoe. Palo ea zero e kene lipalo morao haholo. E ne e se ho fihlela lekholong la bo 17 la lilemo moo zero e neng e amoheloa hohle e le palo Europe [4], ka hona mohlomong e bonahala e le "tlase haholo" ho feta lipalo tse ling tsa tlhaho.
+
+Ho latela pono e makatsang, taba ea ho kenyelletsa zero lipalo tsa tlhaho ha e lumellane feela ebile ha e bake mathata ha feela tumellano ena e lumellana ka linako tsohle nakong ea ho beha mabaka.
+
+Li-nodger
+
+Sengoloa se ka sehloohong: li-integer.
+
+Linomoro tse mpe ke lipalo tse ka tlase ho zero. 
+
+Linomoro tsa mabaka
+
+Sengoloa se ka sehloohong: linomoro tsa maikutlo.
+
+<nowiki>Linomoro tse nang le sepheo sa mantlha ke likarolo tse qapiloeng ke ho arola lenane (le bitsitsoeng ka lipalo) ka senomoro se senang zero (se bitsitsoeng denominator), mohlala. {\ Showstyle {\ tfrac {-3} {5}}. {\ Displaystyle {\ tfrac { -3} {5}}.} Karohano ka zero ha e khonehe.</nowiki>
+
+<nowiki>Sekhechana {\ bonstyle {\ tfrac {n} {m}} {\ tfrac {n} {m}} bakeng sa {\ showstyle 0 <n \ leqslant m} 0 <n \ leqslant m se bonts'a boholo bo fumanoeng kamora ho arola kakaretso ho ba { \ showstyle m} m likarolo tse lekanang, ebe o khetha {\ bonstyle n} n har'a bona. Likaroloana tse peli tse fapaneng li ka emela palo e lekanang ea mohlala, mohlala. {\ Showstyle {\ tfrac {1} {2}} = {\ tfrac {2} {4}}. Tfrac {1} {2} = \ tfrac { 2} {4}. Leha ho le joalo, sekhechana ka seng se ka khutsufatsoa, ​​i.e. arola palo le sedikadine ka nomoro e le 'ngoe (karohano ea bona e kholo ka ho fetisisa) hoo ho se ho sa khonehe ho arola palo ena ka palo eohle e behiloeng.</nowiki>
+
+Haeba lipalo-palo le sedikadiketso ka bobeli li le ntle kapa ka nako e le 'ngoe, palo ea maikutlo e emeloang ke karolo eo le eona e ntle. Haeba khanyetso e le zero, joale nomoro ea mantlha ke zero. Haeba manane a nang le lets'oao le fapaneng le a fane ka lebitso, palo ea maikutlo e boletsoeng ke eona e fosahetse.
+
+Linomoro tsa mabaka li laeloa ka tatellano (linomoro tse peli tsa maikutlo li bapisoa). Ena ke taelo e boima: lipakeng tsa linomoro tse peli tse fapaneng u ka lula u fumana palo e fapaneng (esita le lipalo tse ngata).
