@@ -4,7 +4,7 @@ Ke chelete ea dijithale e arohantsoeng ntle le banka e bohareng kapa motsamaisi 
 
 Bitcoin e rorisitsoe le ho nyatsuoa. Bahlahlobisisi ba hlokometse tšebeliso ea eona litšebelisanong tse seng molaong, boholo ba motlakase o sebelisoang ke basebetsi ba merafong, ho hloka botsitso ha litheko le bosholu ba liphapanyetsano. Litsebi tse ling tsa moruo, ho kenyeletsoa le batho ba 'maloa ba hapileng likhau tsa Nobel, ba li nkile e le sebono se inahaneloang. Bitcoin e boetse e sebelisitsoe e le letsete, leha mekhatlo e mengata ea taolo e fane ka tlhokomeliso ea motseteli ka bitcoin.
 
-=== Nalane ===
+== Nalane ==
 Lebitso la domain "bitcoin.org" le ngolisitsoe ka la 18 Phato 2008. Ka la 31 Mphalane 2008, khokahano ea pampiri e ngotsoeng ke Satoshi Nakamoto e bitsoang Bitcoin: Peer-to-Peer Electronic Cash System e ile ea romelloa lenaneng la mangolo a ngolang ka mokhoa o ipatileng. Nakamoto o kentse tšebetsong software ea bitcoin e le khoutu ea mohloli o bulehileng mme a e lokolla ka Pherekhong 2009. Nakamoto boitsebiso bo ntse bo sa tsejoe.
 
 Ka la 3 Pherekhong 2009, marang-rang a marang-rang a thehiloe ha Nakamoto a cheka setene sa ketane, se tsejoang ka hore ke "genesis block". E kentsoe lebokoseng la chelete ea tšepe ea block ena ho ne ho ngotsoe "The Times 03 / Jan / 2009 Chancellor a le lintšing tsa ho lefa chelete ea bobeli bakeng sa libanka". Lengolo lena le supa sehlooho se phatlalalitsoeng ke The Times mme se hlalositsoe e le setempe sa nako le maikutlo mabapi le ho hloka botsitso ho bakoang ke banka e bolokiloeng hanyane ka hanyane.
@@ -12,3 +12,6 @@ Ka la 3 Pherekhong 2009, marang-rang a marang-rang a thehiloe ha Nakamoto a chek
 Motho ea amohelang thekiso ea pele ea bitcoin e ne e le cypherpunk Hal Finney, ea neng a thehile sistimi ea pele e netefatsoang ea mosebetsi (RPoW) ka 2004. Finney o ile a jarolla software ea bitcoin ka letsatsi la eona la tokollo, mme ka la 12 Pherekhong 2009 a amohela li-bitcoins tse leshome tse tsoang Nakamoto . Batšehetsi ba bang ba pele ba "cypherpunk" e ne e le baetsi ba ba tlileng pele ho bitcoin: Wei Dai, moqapi oa b-chelete, le Nick Szabo, moetsi oa khauta e nyane. Ka 2010, khoebo ea pele e tsebahalang ea khoebo e sebelisang bitcoin e etsahetse ha moqapi Laszlo Hanyecz a reka li-pizza tse peli tsa Papa John bakeng sa ,00010,000.
 
 Bahlahlobi ba blockchain ba hakanya hore Nakamoto o ne a rafile li-bitcoins tse ka bang milione e le 'ngoe, pele a nyamela ka 2010, ha a nehelana ka senotlolo sa tlhokomeliso ea marang-rang le taolo ea polokelo ea khoutu ho Gavin Andresen. Hamorao Andresen e ile ea e-ba moqapi ea etelletseng pele ho Bitcoin Foundation. Joale Andresen o ile a batla ho laola taolo. Sena se siile monyetla oa phehisano ho nts'etsapele tsela ea nts'etsopele ea nako e tlang ea bitcoin, ho fapana le matla a nahanoang a menehelo ea Nakamoto.
+
+== References ==
+1.Nakamoto; et al. (La 1 Mmesa 2016). [https://github.com/bitcoin/bitcoin/blob/08a7316c144f9f2516db8fa62400893f4358c5ae/src/amount.h "Khoutu ea mohloli oa Bitcoin - lithibelo tsa palo"]. ho tloha mantlha ka la 1 Phupu 2018.
