@@ -1,0 +1,126 @@
+Ho tsoa Wikipedia, encyclopedia ea mahala
+
+'''Software''' ke pokello ea litaelo tse bolellang komporo mokhoa oa ho sebetsa. Sena se fapane le li-hardware, tseo sistimi e hahiloeng ho tsona mme e hlile e etsa mosebetsi.
+
+Boemong bo tlase ka ho fetesisa ba mananeo, khoutu e ka sebelisoang e na le litaelo tsa puo ea mochini tse tšehetsoang ke processor e le 'ngoe-hangata setsi sa ts'ebetso ea mantlha (CPU) kapa yuniti e sebetsanang le lits'oants'o (GPU). Puo ea mochini e na le lihlopha tsa boleng ba binary bo supang litaelo tsa processor tse fetolang boemo ba komporo ho tloha maemong a eona a fetileng. Ka mohlala, taelo e ka fetola boleng bo bolokiloeng sebakeng se itseng sa polokelo ka har'a komporo — e leng phello e sa bonoeng ka kotloloho ho mosebelisi. Thupelo e kanna ea kopa e 'ngoe ea ts'ebetso e ngata ea ho kenya kapa ho hlahisa, mohlala ho bonts'a mongolo o itseng skrineng sa komporo; ho baka liphetoho tsa mmuso tse lokelang ho bonahala ho mosebelisi. Prosesa e phethahatsa litaelo ka tatellano eo li e fuoang, ntle le haeba e laetsoe ho "tlolela" taelong e fapaneng, kapa e sitisoa ke sistimi e sebetsang. Ho tloha ka 2015, likhomphutha tse ngata tsa motho ka mong, lisebelisoa tsa li-smartphone le li-server li na le li-processor tse nang le likarolo tse ngata tsa phethiso kapa li-processor tse ngata tse etsang likhomphutha hammoho, mme khomphutha e fetohile ts'ebetso e ts'oanang ho feta nakong e fetileng.
+
+
+Boholo ba software bo ngotsoe ka lipuo tse phahameng tsa mananeo. Li bonolo ebile li sebetsa hantle ho li-programme hobane li haufi haholo le lipuo tsa tlhaho ho feta lipuo tsa mochini. Lipuo tsa maemo a holimo li fetoleloa puong ea mochini ho sebelisoa moqapi kapa toloko kapa motswako oa bobeli. Software e kanna ea ngoloa ka puo ea kopano e maemong a tlase, e nang le ngollano e matla ho litaelo tsa khomphutha ea puo ea mochini mme e fetoleloa ka puo ea mochini o sebelisa seboka.
+
+==== Nalane ====
+Sengoloa sa sehlooho: Nalane ea software
+
+Algorithm ea se neng e tla ba sekhechana sa pele sa software e ngotsoe ke Ada Lovelace lekholong la bo19 la lilemo, bakeng sa Enjine ea Analytical e reriloeng. O thehile bopaki ho bonts'a hore na enjene e tla bala linomoro tsa Bernoulli joang. Ka lebaka la bopaki le algorithm, o nkuoa e le moqapi oa pele oa likhomphutha.
+
+Khopolo ea pele ka software, pele ho theoa likhomphutha joalo ka ha re li tseba kajeno, e ile ea hlahisoa ke Alan Turing moqoqong oa hae oa 1935, On Computable Numbers, ka Application to the Entscheidungsproblem (bothata ba liqeto)] Qetellong sena se ile sa lebisa ho thehoeng ha likarolo tsa thuto ea mahlale a likhomphutha le boenjiniere ba software; Makala ka bobeli a ithuta software le popo ea eona, Saense ea khomphutha ke thuto ea thuto ea khomphutha le software (moqoqo oa Turing ke mohlala oa mahlale a likhomphutha), athe boenjineri ba software ke ts'ebeliso ea melaoana ea boenjiniere nts'etsopele ea software. Pele ho 1946, software e ne e se mananeo a bolokiloeng mohopolong oa likhomphutha tsa dijithale tse bolokiloeng, joalo ka ha re li utloisisa hona joale; lisebelisoa tsa pele tsa likhomphutha tsa elektroniki li ile tsa nchafatsoa bocha molemong oa ho "li hlophisa bocha".
+
+Ka 2000, Fred Shapiro, mosebeletsi wa laeboraring Sekolong sa Molao sa Yale, o ile a phatlalatsa lengolo le neng le senola hore pampiri ya John Wilder Tukey ya 1958 "The Teaching of Concrete Mathematics" e ne e na le tshebediso ya pele-pele e tsebahalang ya "software" e fumanweng patlisisong ya bobolokelo ba ditaba ba elektroniki ba JSTOR , pele ho polelo ea OED ka lilemo tse peli. Sena se lebisitse ho batho ba bangata ho tlotlisa Tukey ka ho qapa lentsoe lena, haholo-holo litsing tse ling tse hatisitsoeng selemong sona seo, leha Tukey a sa ka a kopa mokitlane bakeng sa chelete e joalo ea tšepe. Ka 1995, Paul Niquette o ile a re o qalile nako eo ka Mphalane 1953, leha a ne a sa fumane litokomane tse tšehetsang tseko ea hae. Khatiso ea pele-pele e tsebahalang ea "software" maemong a boenjineri e bile ka Phato 1953 ke Richard R. Carhart, ho Rand Corporation Research Memorandum.
+
+==== Mefuta ====
+Bona hape: Likarolo tsa Software
+
+Hoo e ka bang liforomo tsohle tsa likhomphutha, software e ka hlophisoa ka mekhahlelo e mengata e pharalletseng.
+
+===== Morero, kapa taolo ea tšebeliso =====
+Ho ipapisitsoe le sepheo, software ea khomphutha e ka aroloa ka:
+
+* Software ea ts'ebeliso e sebelisa sistimi ea likhomphutha ho etsa mesebetsi e ikhethang ho feta ts'ebetso ea mantlha ea komporo ka boyona. Ho na le mefuta e fapaneng ea software ea ts'ebeliso hobane mefuta ea mesebetsi e ka etsoang ka komporo ea sejoale-joale e kholo haholo. 
+
+* Software ea software e tsamaisa boits'oaro ba li-hardware, joalo ka ho fana ka lits'ebetso tsa mantlha tse hlokoang ke basebelisi, kapa hore software e ngoe e sebetse hantle, haeba ho le joalo. Software ea software e boetse e etselitsoe ho fana ka sethala sa software ea ts'ebeliso, mme e kenyelletsa tse latelang:
+
+* Sistimi ea ts'ebetso ke pokello ea bohlokoa ea software e tsamaisang lisebelisoa le ho fana ka lits'ebeletso tse tloaelehileng bakeng sa software e ngoe e "holimo" ho tsona. Mananeo a tsamaiso, li-boot loaders, likhetla le litsamaiso tsa lifensetere ke likarolo tsa mantlha tsa lits'ebetso tse sebetsang. Ha e le hantle, sistimi e sebetsang e tla le software e eketsehileng (ho kenyeletsoa software ea ts'ebeliso) e le hore mosebelisi a khone ho etsa mosebetsi o itseng ka komporo e nang le sistimi e le 'ngoe ea ts'ebetso.
+
+* Bakhanni ba lisebelisoa ba sebelisa kapa ba laola mofuta o itseng oa sesebelisoa se hoketsoeng khomphuteng. Sesebelisoa se seng le se seng se hloka bonyane mokhanni a le mong oa sesebelisoa; Hobane k'homphieutha e na le bonyane bonyane sesebelisoa se le seng sa ho kenya le bonyane sesebelisoa se le seng sa khumo, komporo e hloka mokhanni oa lisebelisoa tse fetang e le 'ngoe.
+
+* Lisebelisoa ke mananeo a likhomphutha a etselitsoeng ho thusa basebelisi tlhokomelong le tlhokomelong ea likhomphutha tsa bona.
+
+* Software e kotsi, kapa malware, ke software e etselitsoeng ho senya kapa ho senya likhomphutha. Malware e amahanngoa haholo le litlolo tsa molao tse amanang le likhomphutha, leha mananeo a mang a kotsi a ka be a entsoe joalo ka metlae e sebetsang.
+
+===== Tlhaho kapa taolo ea polao =====
+
+* Lisebelisoa tsa Desktop tse kang libatli tsa marang-rang le Microsoft Office, hammoho le li-smartphone le li-application tsa tablet (tse bitsoang "liapp").
+
+* Lingoloa tsa JavaScript ke likotoana tsa software tse kentsoeng ka har'a maqephe a sebaka sa marang-rang tse tsamaisoang ka kotloloho ka har'a sebatli sa [https://www.casinosforyou.com/ webo] ha leqephe la webo le laoloa ntle le tlhoko ea sebatli sa marang-rang. Software e ngotsoeng ka lipuo tse ling tsa mananeo le eona e ka sebetsoa ka har'a sebatli sa marang-rang haeba software e ka fetoleloa ka JavaScript, kapa haeba sebatli sa marang-rang se ts'ehetsang puo eo se kentsoe; mohlala o tloaelehileng haholo oa morao-rao ke lingoloa tsa ActionScript, tse tšehetsoang ke Adobe Flash plugin.
+
+* Software ea seva, ho kenyeletsoa:
+
+-  Likopo tsa webo, tse atisang ho sebetsa ho seva ea webo le tlhahiso e hlahisang maqephe a webo ka matla ho libatli tsa webo, ho sebelisa mohlala. PHP, Java, ASP.NET, kapa JavaScript e tsamaisang seva. Mehleng ea sejoale-joale tsena li kenyelletsa        JavaScript e meng e lokelang ho sebetsoa ho sebatli sa marang-rang hape, moo maemong a mang e sebetsa ka har'a seva, karolo e ngoe ho sebatli sa marang-rang.
+
+* Li-plugins le li-extensions ke software e eketsang kapa e fetolang ts'ebetso ea software e ngoe, mme e hloka hore software eo e sebelisoe hore e sebetse.
+
+* Software e kentsoeng e lula e le firmware ka har'a sistimi e kenelletseng, lisebelisoa tse sebelisitsoeng ts'ebetsong e le ngoe kapa tse 'maloa tse joalo ka likoloi le lithelevishene (leha lisebelisoa tse ling tse kenelletseng joalo ka li-chipset tse se nang mohala le tsona e ka ba karolo ea sistimi e tloaelehileng e sa kenngoeng joalo ka PC kapa smartphone). Maemong a sistimi e kenelletseng ka linako tse ling ha ho na phapano e hlakileng lipakeng tsa software ea sistimi le software ea ts'ebeliso. Leha ho le joalo, litsamaiso tse ling tse kenelletseng li tsamaisa lits'ebetso tse kenelletseng, 'me litsamaiso tsena li boloka phapang lipakeng tsa software ea sistimi le software ea ts'ebeliso (leha hangata ho tla ba le ts'ebeliso e le' ngoe, e tsitsitseng e lulang e sebelisoa).
+
+* Microcode ke mofuta o ikhethileng, o sa hlakang oa software e kentsoeng e bolellang processor ka boeona hore na e ka etsa khoutu ea mochini joang, ka hona e maemong a tlase ho feta khoutu ea mochini. Hangata ke ea thepa ho moetsi oa li-processor, 'me litlhahiso life kapa life tse hlokahalang tsa khalemelo ea microcode li fanoa ke bona ho basebelisi (e leng theko e tlase haholo ho feta thepa ea ts'ebetso ea phetisetso ea thepa). Kahoo moqapi ea tloaelehileng o ne a ke ke a lebella hore a ka sebetsana le eona.
+
+===== Lisebelisoa tsa mananeo =====
+Sengoloa sa mantlha: Sesebelisoa sa mananeo
+
+Lisebelisoa tsa mananeo le tsona ke software ka mokhoa oa mananeo kapa lits'ebetso tseo baetsi ba tsona ba li sebelisang ho theha, ho lokisa, ho boloka kapa ho ts'ehetsa software e ngoe.
+
+Software e ngotsoe ka puo e le 'ngoe kapa ho feta tsa mananeo; ho na le lipuo tse ngata tsa mananeo tse teng, 'me e' ngoe le e 'ngoe e na le ts'ebetsong e le' ngoe, e 'ngoe le e' ngoe ea tsona e na le lisebelisoa tsa eona tsa lisebelisoa. Lisebelisoa tsena e kanna ea ba mananeo a ikemetseng a joalo ka li-compiler, li-debugger, bafetoleli, lihokela le bahlophisi ba mongolo, tse ka kopantsoang ho phethela mosebetsi; kapa ba kanna ba theha tikoloho e kopaneng ea nts'etsopele (IDE), e kopanyang likarolo tse ngata kapa tsohle tsa ts'ebeliso ea lisebelisoa tse joalo tse ikemetseng. Li-IDE li ka etsa sena ka ho sebelisa lisebelisoa tse amehang tsa motho ka mong kapa ka ho kenya tšebetsong ts'ebetso ea tsona ka tsela e ncha. IDE e ka etsa hore ho be bonolo ho etsa mesebetsi e ikhethileng, joalo ka ho batla lifaele morerong o itseng. Ts'ebetsong tse ngata tsa puo ea mananeo li fana ka khetho ea ho sebelisa lisebelisoa ka bobeli kapa IDE.
+
+==== Lihlooho ====
+
+===== Mekhoa ea ho haha =====
+Bona hape: Boqapi ba software
+
+Batho ba sebelisang likhomphutha tsa sejoale-joale ka kakaretso (ho fapana le lits'ebetso tse kentsoeng, likhomphutha tsa analog le li-supercomputer) hangata ba bona likarolo tse tharo tsa software e etsa mesebetsi e fapaneng: sethala, ts'ebeliso le software ea mosebelisi.
+
+* '''Software ea sethala'''
+
+Sethala se kenyelletsa firmware, lisebelisoa tsa lisebelisoa, sistimi e sebetsang, 'me ka mokhoa o hlakileng sebopeho sa mosebelisi se lumellang mosebelisi ho sebelisana le komporo le lisebelisoa tsa eona (lisebelisoa tse amanang). Software ea sethala hangata e tla    tlatsoa le komporo. Ho PC hangata motho o tla khona ho fetola software ea sethala.
+
+* '''Software ea kopo'''
+
+Software ea ts'ebeliso ke seo batho ba bangata ba se nahanang ha ba nahana ka software. Mehlala e tloaelehileng e kenyelletsa lisutu tsa ofisi le lipapali tsa video. Software ea ts'ebeliso hangata e rekoa ka thoko le lisebelisoa tsa khomphutha. Ka linako tse ling likopo li bokelloa ka komporo, empa seo ha se fetole taba ea hore li sebetsa joalo ka lits'ebetso tse ikemetseng. Likopo hangata ke mananeo a ikemetseng a tsoang ts'ebetsong ea ts'ebetso, leha a atisa ho etsetsoa lipolanete tse ikhethileng. Boholo ba basebelisi ba nahana ka li-compiler, database, le "software" e ngoe e le lits'ebetso.
+
+* '''Software e ngotsoeng ke mosebelisi'''
+
+Sistimi ea ntlafatso ea mosebelisi oa mosebelisi ho fihlela litlhoko tse ikhethileng tsa basebelisi. Software ea mosebelisi e kenyelletsa lipampiri tsa spreadsheet le li-template tsa processor ea mantsoe. Le lifilimi tsa imeile ke mofuta oa software ea mosebelisi. Basebelisi ba iketsetsa software ena 'me hangata ba hlokomoloha bohlokoa ba eona. Ho ipapisitse le hore na software e ngotsoeng ke mosebelisi e kentsoe ka nepo joang lipaketeng tsa ts'ebeliso ea kamehla, basebelisi ba bangata ba kanna ba se tsebe phapang lipakeng tsa liphutheloana tsa mantlha, le se kentsoeng ke basebetsi-'moho.
+
+==== Ho bolaoa ====
+Sehlooho se ka sehloohong: Ho etsoa (k'homphieutha)
+
+Software ea khomphutha e tlameha ho "jarisoa" polokelong ea komporo (joalo ka hard drive kapa memory). Hang ha software e laetse, komporo e khona ho etsa software. Sena se kenyelletsa ho fetisa litaelo ho tsoa ho software ea ts'ebeliso, ka software ea sistimi, ho ea ho hardware eo qetellong e amohelang thuto joalo ka khoutu ea mochini. Taelo e 'ngoe le e' ngoe e etsa hore k'homphieutha e sebetse - e tsamaisa lintlha, e bale palo, kapa e fetole taolo ea litaelo.
+
+Tsamaiso ea data hangata e tloha sebakeng se seng ka mohopolo ho ea ho se seng. Ka linako tse ling ho kenyelletsa ho tsamaisa data lipakeng tsa memori le li-registry tse lumellang phihlello ea data e lebelo ho CPU. Ho tsamaisa lintlha, haholo-holo boholo ba eona, ho ka ba theko e boima; ka linako tse ling sena se qojoa ka ho sebelisa "litsupa" ho data ho fapana. Lipalo li kenyelletsa ts'ebetso e bonolo joalo ka ho eketsa boleng ba sesebelisoa sa data se fapaneng. Lipalo tse rarahaneng haholo li ka kenyelletsa ts'ebetso e ngata le likarolo tsa data hammoho.
+
+==== Boleng le ts'epahalo ====
+Lingoloa tsa sehlooho: Boleng ba Software le tlhahlobo ea Software
+
+Boleng ba software bo bohlokoa haholo, haholo bakeng sa software ea khoebo le sistimi. Haeba software e fosahetse, e ka hlakola mosebetsi oa motho, ea thula komporo le ho etsa lintho tse ling tse sa lebelloang. Liphoso le liphoso li bitsoa "bugs" tse atisang ho sibolloa nakong ea liteko tsa alpha le beta. Software hangata e boetse e le phofu ea se tsejoang ka hore ke botsofali ba software, ho senyeha hoa tšebetso ho tsoelang pele ho bakoang ke ho kopana ha litšitšili tse sa bonahaleng.
+
+Likokoana-hloko tse ngata lia sibolloa le ho hlophisoa ka liteko tsa software. Leha ho le joalo, tlhahlobo ea software ke ka seoelo — haeba e ka ba teng — e felisang kokoanyana e 'ngoe le e' ngoe; baetsi ba mananeo a mang ba re "lenaneo le leng le le leng le na le bonyane kokoanyana e le 'ngoe" (Molao oa Lubarsky). Ka mokhoa oa phororo ea nts'etsopele ea software, lihlopha tse ikhethileng tsa liteko li sebelisoa hangata, empa mekhoeng e mecha, e kopaneng e bitsoang nts'etsopele ea software e bobebe, baetsi ba lihlahisoa hangata ba iketsetsa liteko, 'me ba bonts'a basebelisi / bareki khafetsa ho fumana maikutlo. Software e ka lekoa ka liteko tsa yuniti, tlhahlobo ea khatello ea maikutlo le mekhoa e meng, e etsoang ka letsoho, kapa hangata, ka boiketsetso, kaha palo ea khoutu e lokelang ho lekoa e ka ba kholo. Mananeo a nang le software ea litaelo a thusa boenjineri le lisebelisoa tsa sistimi ho sebetsa habonolo haholonyane.
+
+==== Laesense ====
+Sengoloa sa sehlooho: Laesense ea Software
+
+Laesense ea software e fa mosebelisi tokelo ea ho sebelisa software tikolohong e nang le laesense, 'me maemong a laesense ea mahala ea software, e boetse e fana ka litokelo tse ling joalo ka tokelo ea ho etsa likopi.
+
+Software ea thepa e ka aroloa ka mefuta e 'meli:
+
+* freeware, e kenyeletsang sehlopha sa "free trial" software kapa "freemium" software (nakong e fetileng, lentsoe shareware hangata le ne le sebelisetsoa software ea mahala ea liteko / freemium). Joalokaha lebitso le bontša, freeware e ka sebelisoa mahala, leha ho le joalo maemong a liteko tsa mahala kapa software ea freemium, ka linako tse ling sena ke 'nete feela ka nako e lekanyelitsoeng kapa ka ts'ebetso e fokolang.
+
+* software e teng bakeng sa tefo, e ka sebelisoang ka molao feela ha u reka laesense.
+
+Software ea mohloli o bulehileng e tla le laesense ea mahala ea software, e fang moamoheli litokelo tsa ho fetola le ho tsamaisa software hape.
+
+==== Litokelo tsa molao ====
+Lingoloa tsa sehlooho: Software patent le ngangisano ea patent ea Software
+
+Litokelo tsa semolao tsa software, joalo ka mefuta e meng ea litokelo tsa molao, ho nahanoa hore li tlameha ho fa moqapi laesense e ikhethileng, e nang le nako bakeng sa mohopolo o qaqileng (mohlala, algorithm) ea ho kenya tšebetsong software, kapa karolo ea software. Mehopolo bakeng sa lintho tse molemo tseo software e ka li etsang, le litlhoko tsa mosebelisi, ha lia lokela ho ba patent, mme ts'ebetsong ea konkreite (ke hore liphutheloana tsa 'nete tsa software tse sebelisang tokelo ea molao) le tsona ha li na tokelo ea ho ba patent ka boiketsetso. Kahoo litokelo tsa semmuso tsa software li tlameha ho koahela sebaka se bohareng, lipakeng tsa litlhoko le ts'ebetsong ea konkreite. Linaheng tse ling, tlhoko ea hore moqapi o boletsoeng e be le tšusumetso lefats'eng e kanna ea ba karolo ea litlhokahalo tsa hore patent ea software e nkuoe e sebetsa - leha e le hore software eohle e nang le thuso e na le litlamorao lefatšeng, tlhoko ena e kanna ea ba e buletsoe ngangisano. Ho sa le joalo, molao oa litokelo tsa mantlha oa Amerika o sebelisitsoe likarolong tse fapaneng tsa ho ngoloa ha software.
+
+Litokelo tsa semolao tsa software li phehisana khang ka indasteri ea software mme batho ba bangata ba na le maikutlo a fapaneng ka bona. E 'ngoe ea mehloli ea likhohlano ke hore karohano e boletsoeng pejana lipakeng tsa mehopolo ea mantlha le patent ha e bonahale e hlomphuoa ka mokhoa o sebelisoang ke babuelli ba litokelo tsa molao-mohlala mohlala litokelo tsa molao bakeng sa mananeo a shebaneng le likarolo tse ling (AOP), a neng a bolela ho tseka litokelo holim'a sesebelisoa sefe kapa sefe sa ho etsa mananeo. ho kenya tšebetsong mohopolo oa AOP, ho sa tsotelehe ts'ebetsong. Mohloli o mong oa phehisano ke phello ea boqapi, ka litsebi tse ngata tse ikhethang le lik'hamphani tse phehang khang ea hore software ke tšimo e tsamaeang ka potlako hoo litokelo tsa software li hlahisang feela litšenyehelo tse eketsehileng tsa linyeoe le likotsi, hape li liehisa boqapi. Tabeng ea liphehisano mabapi le litokelo tsa semmuso tsa software kantle ho United States, ho entsoe khang ea hore likhoebo tse kholo tsa Amerika le babuelli ba litokelo tsa molao e kanna ea ba bajalefa ba mantlha ba ho lumella kapa ho tsoela pele ho lumella litokelo tsa semmuso tsa software.
+
+==== Moralo le ts'ebetsong ====
+Lingoloa tsa sehlooho: Nts'etsopele ea software, mananeo a khomphutha le boenjineri ba Software
+
+Moralo le ts'ebetsong ea software li fapana ho latela hore na software e rarahane hakae. Mohlala, moralo le tlhahiso ea Microsoft Word li nkile nako e ngata ho feta ho rala le ho nts'etsapele Notepad ea Microsoft hobane ea morao-rao e na le ts'ebetso ea mantlha ea mantlha.
+
+Software hangata e hlahisoa libakeng tse kopaneng tsa nts'etsopele (IDE) joalo ka Eclipse, IntelliJ le Microsoft Visual Studio tse ka nolofatsang ts'ebetso le ho hlophisa software. Joalokaha ho boletsoe karolong e fapaneng, software hangata e hlahisoa ka holim'a software e seng e ntse e le teng le software programming interface (API) eo software ea mantlha e fanang ka eona joalo ka GTK +, JavaBeans kapa Swing. Lilaebrari (APIs) li ka aroloa ka sepheo sa tsona. Mohlala, Moralo oa Selemo o sebelisetsoa ho kenya ts'ebetsong lits'ebetso tsa khoebo, laeborari ea Liforomo tsa Windows e sebelisetsoa ho rala likopo tsa graphical user interface (GUI) joalo ka Microsoft Word, le Windows Communication Foundation e sebelisetsoa ho rala lits'ebeletso tsa webo. Ha lenaneo le entsoe, le itšetleha ka API. Mohlala, sesebelisoa sa desktop sa Microsoft Windows se kanna sa bitsa lits'ebetso tsa API ho laeborari ea .NET Windows Foromo joalo ka Form1.Close () le Form1.Show () ho koala kapa ho bula sesebelisoa. Ntle le li-API tsena, moqapi o hloka ho ngola likarolo tsena ka botlalo. Likhamphani tse kang Oracle le Microsoft li fana ka li-API tsa tsona e le hore likopo tse ngata li ngoloe ho sebelisoa lilaebrari tsa software tseo hangata li nang le li-API tse ngata ho tsona.
+
+Lisebelisoa tsa data tse kang litafole tsa hashi, li-arrays le lifate tsa binary, le li-algorithms tse kang quicksort, li ka ba molemo bakeng sa ho theha software.
+
+Software ea khomphutha e na le litšobotsi tse ikhethileng tsa moruo tse etsang hore boqapi, boqapi le kabo ea eona bo fapane le thepa e ngata ea moruo.
+
+Motho ea etsang software o bitsoa moqapi, moenjiniere oa software kapa moqapi oa software, mantsoe ao bohle ba nang le moelelo o tšoanang. Ho na le mantsoe a mang a seng molaong a moqapi a fumanehang joalo ka "coder" le "hacker" - leha ts'ebeliso ea lentsoe la morao e ka baka pherekano, hobane hangata e sebelisoa ho bolela motho ea kenang ka mokhoa o seng molaong lits'ebetsong tsa likhomphutha.
